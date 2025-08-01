@@ -22,10 +22,9 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-## 📌 Screenshot
+## you can use this app
 
-![Clusters](screenshot.png)
-
+https://bitcoinpriceprediction.streamlit.app/
 ---
 
 Made by **Kadiyala Komali**
